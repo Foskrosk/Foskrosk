@@ -1,0 +1,12 @@
+{
+    "name": "zherebnev/devsrv",
+	"description": "Simple docker dev server",
+	"version": 1.0.0,
+	"support": {
+        "email": "semyon@test.ru",
+    },
+    "require": {
+        "google/apiclient": "2.0",
+        "guzzlehttp/guzzle": "~5.3.1"
+    }
+}
